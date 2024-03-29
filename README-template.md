@@ -1,103 +1,96 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor: solución de componentes de código QR
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta es una solución al desafío del componente de código QR en Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Table of contents
+## Tabla de contenido
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Resumen](#resumen)
+   - [Captura de pantalla](#captura de pantalla)
+   - [Enlaces](#enlaces)
+- [Mi proceso](#mi-proceso)
+   - [Construido con HTML Y CSS](#construido con)
+   - [Lo que aprendí](#lo-que-aprendí)
+   - [Desarrollo continuo](#desarrollo-continuo)
+   - [Recursos útiles](#recursos-útiles)
+- [Autor](#autor)
+- [Agradecimientos](#agradecimientos)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Descripción general
 
-### Screenshot
+### Captura de pantalla
 
-![](./screenshot.jpg)
+![](./captura de pantalla.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Agregue una captura de pantalla de su solución. La forma más sencilla de hacerlo es utilizar Firefox para ver su proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puede elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy largo, quizás sea mejor recortarlo.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternativamente, puedes usar una herramienta como [FireShot](https://getfireshot.com/) para tomar la captura de pantalla. FireShot tiene una opción gratuita, por lo que no es necesario comprarla.
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Luego recorte/optimice/edite su imagen como desee, agréguela a su proyecto y actualice la ruta del archivo en la imagen de arriba.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+**Nota: elimine esta nota y los párrafos anteriores cuando agregue su captura de pantalla. Si prefiere no agregar una captura de pantalla, no dude en eliminar esta sección completa.**
 
-### Links
+### Enlaces
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL de la solución: https://github.com/Rully74/FM-QR-code-component
+- URL del sitio en vivo: https://rully74.github.io/FM-QR-code-component/
 
-## My process
+## Mi proceso
 
-### Built with
+### Construido con
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Marcado semántico HTML5
+- Propiedades personalizadas de CSS
+- Flex box
+- Responsive Design
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### Que aprendí
 
-### What I learned
+Utilice esta sección para recapitular algunos de sus principales aprendizajes mientras trabajaba en este proyecto. Escribirlos y proporcionar ejemplos de código de las áreas que desea resaltar es una excelente manera de reforzar su propio conocimiento.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+Para ver cómo puede agregar fragmentos de código, consulte a continuación:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Algún código HTML del que estoy orgulloso</h1>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.orgulloso-de-este-css {
+   color: látigo de papaya;
 }
 ```
 ```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+const orgullosoDeEstaFunc = () => {
+   consola.log('🎉')
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Si desea obtener más ayuda para escribir Markdown, le recomendamos consultar [La guía de Markdown](https://www.markdownguide.org/) para obtener más información.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+**Nota: elimine esta nota y el contenido de esta sección y reemplácelos con sus propios aprendizajes.**
 
-### Continued development
+### Desarrollo continuo
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Utilice esta sección para delinear áreas en las que desea continuar enfocándose en proyectos futuros. Estos podrían ser conceptos con los que todavía no te sientes completamente cómodo o técnicas que te resultaron útiles y que deseas refinar y perfeccionar.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+**Nota: elimine esta nota y el contenido de esta sección y reemplácelos con sus propios planes para un desarrollo continuo.**
 
-### Useful resources
+### Recursos útiles
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Recurso de ejemplo 1](https://www.example.com) - Esto me ayudó por el motivo XYZ. Realmente me gustó este patrón y lo usaré en el futuro.
+- [Recurso de ejemplo 2](https://www.example.com): este es un artículo sorprendente que finalmente me ayudó a comprender XYZ. Se lo recomendaría a cualquiera que todavía esté aprendiendo este concepto.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**Nota: elimine esta nota y reemplace la lista anterior con recursos que lo ayudaron durante el desafío. Estos podrían resultar útiles para cualquiera que vea su solución o para usted mismo cuando revise este proyecto en el futuro.**
 
-## Author
+## Autor
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Sitio web - [Agregue su nombre aquí](https://www.your-site.com)
+- Mentor de frontend - [@tunombredeusuario](https://www.frontendmentor.io/profile/tunombredeusuario)
+- Twitter - [@tunombredeusuario](https://www.twitter.com/tunombredeusuario)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+**Nota: elimine esta nota y agregue/elimine/edite las líneas anteriores según los enlaces que desee compartir.**
 
-## Acknowledgments
+## Agradecimientos
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Aquí es donde puedes felicitar a cualquiera que te haya ayudado en este proyecto. Quizás trabajó en equipo o se inspiró en la solución de otra persona. Este es el lugar perfecto para darles algo de crédito.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+**Nota: elimine esta nota y edite el contenido de esta sección según sea necesario. Si completaste este desafío tú mismo, no dudes en eliminar esta sección por completo.**
