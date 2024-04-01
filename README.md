@@ -2,20 +2,6 @@
 
 Esta es una solución al desafío del componente de código QR en Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## 📖 Tabla de contenido
-
-- [Descripción general](#descripción-general)
-   - [Captura de pantalla](#📷-captura-de-pantalla)
-   - [Enlaces](#🔗-enlaces)
-- [Mi proceso](#🔮-mi-proceso)
-   - [Construido con](#construido-con)
-   - [Lo que aprendí](#🚀-que-aprendí)
-   - [Desarrollo continuo](#🎯-desarrollo-continuo)
-   - [Recursos útiles](#👀-recursos-útiles)
-- [Autor](#😎-autor)
-- [Agradecimientos](#❤️-agradecimientos)
-
-
 ## Descripción general
 
 ### 📷 Captura de pantalla​
