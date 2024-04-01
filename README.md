@@ -4,14 +4,14 @@ Esta es una solución al desafío del componente de código QR en Frontend Mento
 
 ## Tabla de contenido
 
-- [Descripción general](#descripción general)
-   - [Captura de pantalla](#captura de pantalla)
+- [Descripción general](#descripcióngeneral)
+   - [Captura de pantalla](#capturadepantalla)
    - [Enlaces](#enlaces)
-- [Mi proceso](#mi proceso)
-   - [Construido con](#construido con)
-   - [Lo que aprendí](#que aprendí)
-   - [Desarrollo continuo](#desarrollo continuo)
-   - [Recursos útiles](#recursos útiles)
+- [Mi proceso](#miproceso)
+   - [Construido con](#construidocon)
+   - [Lo que aprendí](#queaprendí)
+   - [Desarrollo continuo](#desarrollocontinuo)
+   - [Recursos útiles](#recursosútiles)
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
 
@@ -56,7 +56,7 @@ En el futuro, me gustaría tener un mejor análisis a la hora de empezar a maque
 ## Autor
 
 - Sitio web - [www.linkedin.com/in/julianruizo/](https://www.your-site.com)
-- Twitter - [@tunombredeusuario](https://www.twitter.com/tunombredeusuario)
+- Twitter - [www.linkedin.com/in/julianruizo](https://www.twitter.com/tunombredeusuario)
 
 
 ## Agradecimientos
