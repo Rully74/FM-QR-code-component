@@ -55,7 +55,7 @@ En el futuro, me gustaría tener un mejor análisis a la hora de empezar a maque
 
 ## Autor
 
-- Sitio web - [www.linkedin.com/in/julianruizo/](www.linkedin.com/in/julianruizo)
+- Sitio web - [www.linkedin.com/in/julianruizo/](https://www.linkedin.com/in/julianruizo/)
 
 
 ## Agradecimientos
