@@ -6,7 +6,7 @@ Esta es una solución al desafío del componente de código QR en Frontend Mento
 
 ### 📷 Captura de pantalla​
 
-![](https://res.cloudinary.com/dghxyobwk/image/upload/f_auto,q_auto/Frontend-Mentor-QR-Component)
+![](https://res.cloudinary.com/dghxyobwk/image/upload/v1712200673/Frontend-Mentor-QR-Component-capture.png)
 
 Esta es una captura de pantalla de mi solución final.
 
